@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'pythontransformation'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_893bc85f1c424d72a4aa3b6379ba55dd }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5501b0996572467396a1b9c33c19ab93 }}
